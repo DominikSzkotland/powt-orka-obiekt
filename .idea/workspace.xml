@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9743636-ed49-4805-819f-d582e802b840" name="Changes" comment="Obiektowa powtorka">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PowtorkaObiektowo.iml" afterDir="false" />
+    <list default="true" id="a9743636-ed49-4805-819f-d582e802b840" name="Changes" comment="Obiektowa powtorkabcxb">
+      <change afterPath="$PROJECT_DIR$/Osoba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +49,14 @@
       <option name="presentableId" value="Default" />
       <updated>1695219194443</updated>
     </task>
+    <task id="LOCAL-00001" summary="Obiektowa powtorkabcxb">
+      <created>1695220484100</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695220484100</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,6 +72,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Obiektowa powtorka" />
-    <option name="LAST_COMMIT_MESSAGE" value="Obiektowa powtorka" />
+    <MESSAGE value="Obiektowa powtorkabcxb" />
+    <option name="LAST_COMMIT_MESSAGE" value="Obiektowa powtorkabcxb" />
   </component>
 </project>
